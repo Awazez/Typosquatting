@@ -1,0 +1,2 @@
+# Typosquatting
+POC typosquatting 

@@ -1,2 +1,2 @@
-# Typosquatting
-POC typosquatting 
+# Parodic Cybersquatting
+POC Parodic Cybersquatting
